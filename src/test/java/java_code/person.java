@@ -2,8 +2,8 @@ package java_code;
 
 public class person {
 
-        int age;
-String firstName;
+      private  int age;
+    public String firstName;
 }
 
 
